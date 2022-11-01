@@ -4,3 +4,6 @@ A data analyst of a retail shop, Happy Mart, wants to store the product details,
 Tool Used: MySQL
 
 Language Used: SQL
+
+Objective:
+The design of the database helps to easily evaluate and identify the performance of the shop to increase the daily sales.

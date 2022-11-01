@@ -5,6 +5,7 @@ Objective:
 The design of the database helps to easily evaluate and identify the performance of the shop to increase the daily sales.
 
 Used Tool and Language:
+
 Tool: MySQL
 
 Language: SQL
